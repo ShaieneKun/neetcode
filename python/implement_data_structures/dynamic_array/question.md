@@ -1,3 +1,5 @@
+https://neetcode.io/problems/dynamicArray/question
+
 Design a Dynamic Array (aka a resizable array) class, such as an ArrayList in Java or a vector in C++.
 
 Your DynamicArray class should support the following operations:
